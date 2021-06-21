@@ -1,0 +1,223 @@
+*{
+    margin: 0   auto ;
+  
+}
+
+@media only screen and (max-width: 960px)and (max-height:349px ){
+	.background{width: 960px;
+		height: 0px;
+		background: hsla(height2800px);
+	}
+}
+
+html,body {
+	height:100%;
+}
+
+/* body{
+	text-align: center;
+	margin: 0px auto;
+	width: 100%;
+	min-width:994px;
+}
+
+body {
+  
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    background: url();
+ 
+
+}
+*/
+
+
+
+
+
+
+.contenier
+{ 
+	width: 1200px;
+	margin: auto;
+	}
+
+.bar
+{
+	margin: 0 ;
+    background: linear-gradient(black,rgb(99, 2, 255));
+width: 100%;
+height:90px;
+padding: 1px;
+
+position: fixed;
+
+
+}
+
+.bar .header 
+{
+	width:1150px;
+	float: left;
+	margin: 10px  4px  6px;
+	
+}
+.bar .itme
+{
+	width: 10;
+	float: left;
+}
+
+.bar .itme ul li
+{
+	display: inline;
+	margin-right: 30px;
+
+
+}
+.bar .header ul li
+{
+	display: inline;
+	margin-right: 30px;
+
+}
+
+.bar .header h1
+
+{
+	cursor: pointer;
+	 color: antiquewhite;
+     text-align: left;
+     font: optional;
+     font-size: 30px;
+
+
+}
+/*background*/
+
+.background
+{
+    
+
+    background: url(https://hassansahhaf.files.wordpress.com/2016/06/39120aa.jpg);
+
+    width:100% ;
+    height: 350px;
+    background-size: cover;
+    padding-top: 250px;
+
+}
+
+ .background h1
+
+{
+
+    background:rgba(12, 0, 0, 0.7);
+    width: 35%;
+    padding:30px ;
+    color: seashell;
+    font-size: 29px;
+    text-align: center;
+    font-style: italic;
+
+  
+    border-radius: 100px;
+
+    margin: auto;
+    
+}
+.img
+{
+    width: 100%;
+  
+    display: inline;
+    padding-top: 50px;
+  
+}
+
+.auto
+{
+    text-align: center;
+    padding: 50px;
+    font-size: 30px;
+    color: steelblue;
+}
+ 
+
+
+  
+
+#img {
+
+    width: 40%;
+    height: 10px;
+    float: left;
+
+}
+.hh {
+    font-size:25px ;
+    font-style: oblique;
+    color: hsl(hue, saturation, lightness);
+    padding-top: 20px;
+    text-align: center;
+
+}
+.pp  {
+  padding-top: 40px;
+    float: right ;
+    
+    font-style: italic;
+   
+    font-size: 22px;
+    color: rgb(5, 5, 5);
+    font-style: unset;
+    
+}
+.whatsapp h1
+{
+    font-size: 25px;
+ 	background:rgb(40, 0, 218);
+     width: 30%;
+ 
+ 
+ 	color: gold;
+margin-top: 40px;
+padding: 30px;
+text-align: center;
+
+border-radius: 70px;
+
+}
+.whatsapp .imgee .two
+{
+    display: inline;
+
+    
+    
+    
+}
+.whatsapp .imgee
+{
+    padding-top: 30px;
+    margin-right: 0px;
+}
+
+.whatsapp .two
+{
+    margin-right: 30px;
+    padding: 20px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
